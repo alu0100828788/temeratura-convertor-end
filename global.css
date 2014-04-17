@@ -14,11 +14,11 @@ body
 }
 
 h1 {
-    font-weight: bold;
+    font-weight: 50px;
     font-family: "Brush Script MT", cursive;
     background: red;
-    padding: 200px 100px;
+    padding: 100px 200px;
     color: brown;
     display:inline-block;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 30px 30px 30px 30px;
 }
